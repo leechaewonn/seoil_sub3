@@ -409,10 +409,13 @@ input[id="menuicon"]+label, .slidebar{
    margin: 0 auto;
    overflow: hidden;
    margin-bottom: 20px;
-   padding-top: 143px;
+   padding-top: 10px;
 }
 .category p{
    font-size: 18px;
+}
+.just{
+   padding-top: 100px;
 }
 /*footer*/
 .footer_in{
